@@ -10,7 +10,7 @@ b. El segundo nombre tiene que ser modificado para que este sea igual a, la suma
 
 c. El ultimo nombre, tiene que estar invertido y a su vez tiene que saltearse una letra por cada letra, por ejemplo, para "holamundo" seria "onmlh"
 
-Por ultimo, la funcion main tiene que _retornar_ los tres nombres modificados concatenados en orden alfabetico. (Opcional)
+Por ultimo, la función main tiene que _retornar_ los tres nombres modificados concatenados en orden alfabético. (Opcional)
 
 Ejemplo para 3 nombres
 
@@ -28,4 +28,4 @@ nombre2 => tias
 nombre3 => asta
 ```
 
-Y la funcion `main()` retornara: `astanitsugatias`
+Y la función `main()` retornara: `astanitsugatias`
