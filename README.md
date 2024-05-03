@@ -3,8 +3,15 @@
 para practicar para el parcial de Programación 1.
 
 [Vinculo a Guía de ejercicios](https://github.com/MateoDi9z/practica-parcial-prog-1)
+[Ejercicios Adicionales](https://facultaddeingenieria.github.io/prog1/additional-practice/1)
 
-## Como empezar?
+## Ejercicios adicionales (Prog1)
+
+Resueltos en [Carpeta de Ejercicios Resueltos](https://github.com/MateoDi9z/practica-parcial-prog-1/tree/main/resolved-exercices)
+
+## Mis Ejercicios
+
+### Como empezar?
 
 > Primero no te olvides de estar en el directorio correcto con la consola, podes hacer `cd "<ruta al ejercicio>"` para estar en el directorio correcto.
 
